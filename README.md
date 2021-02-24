@@ -3,7 +3,8 @@
 將 [gd-utils](https://github.com/iwestlin/gd-utils) 換成 [gd-utils-cht](https://github.com/liaojack8/gd-utils-cht)。
 
 # 個人操作筆記
-TG_USERNAME = @xxxxxxxxx
+
+TG_USERNAME = @username (不帶@)
 IBM Cloud 的 Cloud Foundry 應用程式 路徑
     - 前綴 = IBM_APP_NAME
     - 網域 = us-south.cf.appdomain.cloud
