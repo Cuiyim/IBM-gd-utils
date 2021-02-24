@@ -5,9 +5,10 @@
 # 個人操作筆記
 
 TG_USERNAME = @username (不帶@)
+
 IBM Cloud 的 Cloud Foundry 應用程式 路徑
-    - 前綴 = IBM_APP_NAME
-    - 網域 = us-south.cf.appdomain.cloud
+- 前綴 = IBM_APP_NAME
+- 網域 = us-south.cf.appdomain.cloud
 
 # IBM-gd-utils
 
