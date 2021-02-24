@@ -12,7 +12,7 @@ IBM Cloud 的 Cloud Foundry 應用程式 路徑
 
 # IBM-gd-utils
 
-IBM Cloud Fonudray + gd-utils + Github Actions
+IBM Cloud Fonudray + gd-utils-cht + Github Actions
 
 ### 原項目 [gd-utils](https://github.com/iwestlin/gd-utils)
 
